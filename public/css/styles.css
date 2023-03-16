@@ -19,6 +19,10 @@
 .price {
   margin-top: 1rem;
 }
+.modal-content1 {
+  background-color: transparent;
+  box-shadow: none;
+}
 
 
 
@@ -58,13 +62,16 @@
   
 }
 #carouselExampleControls {
+
   display: inline-block;
   position: relative;
-  margin: 0%;
+  margin-left: 10%;
   padding: 0px;
   /* border: 10px solid black; replace black with your desired border color */
   border-width: 3px;
 }
+
+
 .displayall-innerc{
   display: inline-block;
 }
@@ -87,8 +94,8 @@
   margin-top: 10px;
 }
 .ProfileP {
-  width: 300px;
-  height: 200px;
+  width: 600px;
+  height: 400px;
   border-radius: 20px;
 
 }
@@ -110,7 +117,8 @@ h3{
 /*id tags*/
 #title{
   /* background-color: rgb(189, 89, 89); */
-  background-image: url('https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-image: url('https://images.pexels.com/photos/1049298/pexels-photo-1049298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  
 
 
 }
